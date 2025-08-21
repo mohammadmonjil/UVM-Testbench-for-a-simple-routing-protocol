@@ -1,5 +1,4 @@
 # UVM-Testbench-for-a-simple-routing-protocol
-# UVM Testbench — Simple Router
 
 This repository contains a **UVM testbench** for a simple packet router with **1 input channel, 3 output channels, and an HBUS interface** for CSR configuration.  
 The environment was built as part of the **Cadence SystemVerilog Accelerated Verification with UVM** course.  
